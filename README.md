@@ -13,4 +13,4 @@
   <li>Hangman game disables input and button after win</li>
 </ul>
   <h2> Click Below to Open the Game</h2>
-<h3>https://hangmanguess.netlify.app/</h3>
+<h3><a href="https://hangmanguess.netlify.app/" target=”_blank”>HangMan Game</a></h3>
