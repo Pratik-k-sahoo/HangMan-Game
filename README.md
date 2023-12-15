@@ -11,3 +11,6 @@
   <li>Hangman game allows user to guess using the enter key</li>
   <li>Hangman game disables input and button after loss</li>
   <li>Hangman game disables input and button after win</li>
+</ul>
+  <h2> Click Below to Open the Game</h2>
+<h3>https://hangmanguess.netlify.app/</h3>
