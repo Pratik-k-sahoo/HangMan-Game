@@ -100,3 +100,5 @@ function includeGuess(){
   });
   guessesId.innerHTML = `Guesses: <span id="guesses">${ans}</span>`; 
 }
+
+checkGuess();
